@@ -8,3 +8,6 @@ to build a project:
 to run a project:
     cd {{name}}
     cargo run
+
+to build and view the docs of the project dependencies:
+    cargo doc --open
